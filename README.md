@@ -1,7 +1,5 @@
 # Projeto Buzzfeed
 
-Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
-
 Nesta aplicação, foi feito um clone do site BuzzFeed, mais precisamente da parte de questionários.
 
 Este projeto faz parte do Bootcamp Cloud Fullstack - Warburg Pincus da DIO (Digital Innovation One).
